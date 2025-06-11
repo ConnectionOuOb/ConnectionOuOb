@@ -3,14 +3,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Connectionouob&show_icons=true&theme=highcontrast" alt="Connectionouob's GitHub Stats" />
-</p>
-
----
-
 ## 🌐 Top Languages
 
 <p align="center">
@@ -26,3 +18,12 @@
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Connectionouob&show_icons=true&theme=highcontrast" alt="Connectionouob's GitHub Stats" />
+</p>
+
+---
+
