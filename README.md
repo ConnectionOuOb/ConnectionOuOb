@@ -14,7 +14,7 @@
 ## 🌐 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connectionouob&theme=highcontrast&langs_count=20&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connectionouob&theme=highcontrast&langs_count=20&layout=compact&hide=JavaScript" alt="Top Languages" />
 </p>
 
 ---
